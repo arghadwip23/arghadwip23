@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, It's Arghadwip
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](Link URL)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=arghadwip23)
 <!--
 **arghadwip23/arghadwip23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
