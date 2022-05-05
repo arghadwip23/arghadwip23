@@ -1,6 +1,9 @@
 ### Hi there 👋, It's Arghadwip
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/sarkar_2_?igshid=YmMyMTA2M2Y=)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=arghadwip23)
+![image](https://github-readme-stats.vercel.app/api?username=arghadwip23)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghadwip23&theme=vue)
+![image](https://activity-graph.herokuapp.com/graph?username=arghadwip23&theme=minimal)
 <!--
 **arghadwip23/arghadwip23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
