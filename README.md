@@ -1,5 +1,5 @@
 ### Hi there 👋, It's Arghadwip
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/sarkar_2_?igshid=YmMyMTA2M2Y=)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/argha.exe?igshid=YmMyMTA2M2Y=)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:arghadwip23@gmail.com)
 ***
 I am a school student of [JNV BANKURA](https://en.m.wikipedia.org/wiki/Jawahar_Navodaya_Vidyalaya,_Bankura), who is just trying to learn coding & want to join the developers community. I want to make changes in the world with the combination of 0 & 1 
