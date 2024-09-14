@@ -6,7 +6,7 @@ I am a college student of [VIT chennai](https://en.wikipedia.org/wiki/Vellore_In
 
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=arghadwip23)
+
 ![image](https://github-readme-stats.vercel.app/api?username=arghadwip23)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghadwip23&theme=vue)
 ![image](https://activity-graph.herokuapp.com/graph?username=arghadwip23&theme=minimal)
