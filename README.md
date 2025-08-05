@@ -5,7 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/arghadwip23?label=Follow&style=social)](https://github.com/arghadwip23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arghadwip-blue?logo=linkedin)](https://linkedin.com/in/arghadwip)
 [![Twitter](https://img.shields.io/twitter/follow/ArghadwipS?style=social)](https://twitter.com/ArghadwipS)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://swamijitrust.com)
 [![Email](https://img.shields.io/badge/Email-arghadwip23%40gmail.com-red)](mailto:arghadwip23@gmail.com)
 
 ---
@@ -48,7 +47,6 @@ A curious mind who codes not just for the syntax, but for the stories behind the
 
 - 🤖 [**MyCLI**](https://github.com/arghadwip23/mycli): A custom command-line interface tool that simplifies daily terminal tasks using Python.
 
-- 📦 [**DevShelf**](https://github.com/arghadwip23/devshelf): A modern full-stack web app (Next.js + MongoDB + Tailwind) for developers to bookmark, tag, and search useful tools, articles, and code snippets.
 
 ---
 
@@ -66,7 +64,6 @@ A curious mind who codes not just for the syntax, but for the stories behind the
 
 ## 🤝 Let's Connect
 
-- 🌐 [Website](https://swamijitrust.com)
 - 🐦 [Twitter](https://twitter.com/ArghadwipS)
 - 💼 [LinkedIn](https://linkedin.com/in/arghadwip)
 - 📬 [Email](mailto:arghadwip23@gmail.com)
