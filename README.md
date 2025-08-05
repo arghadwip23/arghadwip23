@@ -41,9 +41,10 @@ A curious mind who codes not just for the syntax, but for the stories behind the
 
 ## 📌 Featured Projects
 
+- 🌐 [**NGO Website**](https://github.com/arghadwip23/swamijitrust): A fully responsive website for *swamijitrust*, an NGO based in West Bengal, built to enhance outreach and storytelling.
+
 - 🌌 [**Astrocamp**](https://github.com/arghadwip23/Astrocamp): A stunning interface to view NASA's Astronomy Picture of the Day. Designed for space lovers and built with React + NASA API.
 
-- 🌐 [**NGO Website**](https://github.com/arghadwip23/NGO): A fully responsive website for *Dayboddho*, an NGO based in West Bengal, built to enhance outreach and storytelling.
 
 - 🤖 [**MyCLI**](https://github.com/arghadwip23/mycli): A custom command-line interface tool that simplifies daily terminal tasks using Python.
 
