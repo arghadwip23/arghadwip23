@@ -1,74 +1,58 @@
-# 👋 Hi there! I'm Arghadwip Sarkar
+# Hi — I'm Arghadwip Sarkar
 
-🎓 Electronics and Computer engineering student at VIT Chennai | 💻 Full Stack Developer | ⚙️ Automation Enthusiast | 🌌 Tech Dreamer
-
-[![GitHub followers](https://img.shields.io/github/followers/arghadwip23?label=Follow&style=social)](https://github.com/arghadwip23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arghadwip-blue?logo=linkedin)](https://linkedin.com/in/arghadwip)
-[![Twitter](https://img.shields.io/twitter/follow/ArghadwipS?style=social)](https://twitter.com/ArghadwipS)
-[![Email](https://img.shields.io/badge/Email-arghadwip23%40gmail.com-red)](mailto:arghadwip23@gmail.com)
+Electronics & Computer Engineering student at VIT Chennai · Full-Stack Developer · Automation Enthusiast  
+"Code is the bridge between ideas and impact."
 
 ---
 
-## 🚀 Who Am I?
-
-A curious mind who codes not just for the syntax, but for the stories behind the solutions. Whether it's building full-stack apps, automating digital chores, or designing elegant web UIs — I love turning ideas into impact. I'm always exploring the edge between creativity and code.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Scripting**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-
-## 📌 Featured Projects
-
-- 🌐 [**NGO Website**](https://github.com/arghadwip23/swamijitrust): A fully responsive website for *swamijitrust*, an NGO based in West Bengal, built to enhance outreach and storytelling.
-
-- 🌌 [**Astrocamp**](https://github.com/arghadwip23/Astrocamp): A stunning interface to view NASA's Astronomy Picture of the Day. Designed for space lovers and built with React + NASA API.
-
-
-- 🤖 [**MyCLI**](https://github.com/arghadwip23/mycli): A custom command-line interface tool that simplifies daily terminal tasks using Python.
+## Social Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arghadwip%20Sarkar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arghadwip/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ArghadwipS-black?style=for-the-badge&logo=x)](https://twitter.com/ArghadwipS)
+[![GitHub](https://img.shields.io/badge/GitHub-arghadwip23-black?style=for-the-badge&logo=github)](https://github.com/arghadwip23)
 
 
 ---
 
-## 📊 GitHub Stats
+## About Me
+I build dependable web apps and automation tools that solve real problems. I enjoy taking product ideas from concept to production — focusing on clarity, maintainability, and practical UX.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arghadwip23&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghadwip23&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghadwip23&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**Location:** India  
+**Website:** https://swamijitrust.com
 
 ---
 
-## 🤝 Let's Connect
+## Quick Stats
+![Followers](https://img.shields.io/github/followers/arghadwip23?label=Followers&style=flat)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arghadwip23&query=public_repos&label=Public%20Repos)
 
-- 🐦 [Twitter](https://twitter.com/ArghadwipS)
-- 💼 [LinkedIn](https://linkedin.com/in/arghadwip)
-- 📬 [Email](mailto:arghadwip23@gmail.com)
 
 ---
 
-> “Code is the bridge between ideas and impact.” 🌟
+## GitHub Activity & Top Languages
+![Arghadwip's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghadwip23&show_icons=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arghadwip23&layout=compact&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arghadwip23&date_format=%5BY%5D-%5Bm%5D-%5Bd%5D)
+
+---
+
+## Tech & Tools
+**Languages:** JavaScript, Python, HTML, CSS  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend & DB:** Node.js, MongoDB  
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## Featured Projects
+
+- **[swamijitrust](https://github.com/arghadwip23/swamijitrust)** — A responsive website for the Swamiji Trust (NGO).  
+- **[ngo_of_Dinhata](https://github.com/arghadwip23/ngo_of_Dinhata)** — Website for Dayboddho NGO (Dinhata, West Bengal).  
+- **[APOD](https://github.com/arghadwip23/APOD)** — React interface for NASA's Astronomy Picture of the Day API.  
+- **[baujikapaisa](https://github.com/arghadwip23/baujikapaisa)** — Contributor to a community initiative.
+
+---
+
+## Collaboration
+Open an issue, pull request, or message me on any platform if you'd like to collaborate on a project.
+
+---
