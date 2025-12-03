@@ -16,8 +16,7 @@ Electronics & Computer Engineering student at VIT Chennai · Full-Stack Develope
 ## About Me
 I build dependable web apps and automation tools that solve real problems. I enjoy taking product ideas from concept to production — focusing on clarity, maintainability, and practical UX.
 
-**Location:** India  
-**Website:** https://swamijitrust.com
+
 
 ---
 
